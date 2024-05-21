@@ -13,8 +13,8 @@ The purpose of this challenge was to fill the backend for an e-commerce site. Th
   ## Usage
   Since this project is not deployed, but is instead run locally, view the following video for a demonstration:
    <br/><br/>
-
-
+   
+https://github.com/BeeCeeTee/CWRU-13-E-Commerce-Back-End/assets/117789057/52a44978-da5b-4f5f-8bac-d6960f01754e
 
    <br/><br/>
 ([Back to Top](#table-of-contents))
